@@ -12,5 +12,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-vallee-f](https://github.com/elov03/quotes-vallee-f.git)
-- `contributor-2`: [quotes-amour-f]()
+- `contributor-2`: [quotes-amour-f](https://github.com/raphAmr/quotes-amour-f.git)
 - `contributor-3`: [quotes-dangin-f]()
