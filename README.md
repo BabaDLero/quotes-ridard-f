@@ -1,0 +1,1 @@
+# quotes-ridard-f
