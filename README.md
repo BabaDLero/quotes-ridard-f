@@ -11,6 +11,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: DANGIN Romain Group F 
 
 ## Fork urls
-- `contributor-1`: [quotes-vallee-f](url-1)
-- `contributor-2`: [quotes-amour-f](url-2)
-- `contributor-3`: [quotes-dangin-f](url-3)
+- `contributor-1`: [quotes-vallee-f](https://github.com/elov03/quotes-vallee-f.git)
+- `contributor-2`: [quotes-amour-f]()
+- `contributor-3`: [quotes-dangin-f]()
